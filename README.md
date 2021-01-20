@@ -15,10 +15,9 @@
 - 💬 A disposição para responder qualquer pergunta
 
 <center>
-    <table align="center">
+    <table>
       <tr>
-          <td>
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoguilen&hide=java&layout=compact&theme=react&title_color=ffffff" />               </td>
+          <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoguilen&hide=java&layout=compact&theme=react&title_color=ffffff" /></td>
       </tr>  
     </table>
 </center>
