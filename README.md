@@ -1,8 +1,9 @@
 
-<h1 align="center">Hi , I'm Leonardo Guilen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h1 align="center">Hi , I'm Leonardo Guilen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Azure+Fundamentals+Certified&center=true&width=500&height=50"></a>
+</p>
+<p align="center">
   <a href="https://www.youracclaim.com/badges/a887f982-8886-476c-ad36-121b4f92ec83/public_url"><img src="https://images.youracclaim.com/size/80x150/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png"></a>
 </p>
 <hr/>
@@ -149,8 +150,9 @@ In constant learning about software architecture, looking to become an architect
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/leoguilen"><img alt="Leonardo C. Guilen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=leoguilen&custom_title=Leonardo C. Guilen's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/leoguilen"><img alt="Leonardo Guilen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=leoguilen&custom_title=Leonardo%20Guilen's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+
 </details>
 
 <br/>
