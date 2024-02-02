@@ -1,0 +1,18 @@
+name: Update Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update the README with my latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          commit_message: "Updated readme with the latest blog posts"
+          feed_list: "https://medium.com/feed/@leonardoguilen"
+          max_post_count: 5
