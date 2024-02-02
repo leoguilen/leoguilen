@@ -6,6 +6,8 @@ I'm a Software Developer Engineer who is passionate about technology and innovat
 
 ### 🪪 My Badges
 <!--START_SECTION:badges-->
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/1986e4ff-e366-4ef8-94cc-f8145bef2cd1 "AWS Certified Cloud Practitioner")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/a887f982-8886-476c-ad36-121b4f92ec83 "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
 
 ### 📕 Latest Blog Posts
