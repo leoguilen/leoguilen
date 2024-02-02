@@ -10,9 +10,9 @@ jobs:
     name: Update README with Credly Badges
     runs-on: ubuntu-latest
     steps:
-      - name: Credly Badges
-        uses: pemtajo/badge-readme@main
+      - uses: actions/checkout@v2
+      - uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CREDLY_USER: ${{ env.CREDLY_USER }}
+          CREDLY_USER: leonardo-guilen
           BADGE_SIZE: 100
