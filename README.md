@@ -12,11 +12,11 @@ I'm a Software Developer Engineer who is passionate about technology and innovat
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Aprimorando a segurança de workloads: Implementando aplicações Passwordless no Azure com…](https://leonardoguilen.medium.com/aprimorando-a-seguran%C3%A7a-de-workloads-implementando-aplica%C3%A7%C3%B5es-passwordless-no-azure-com-f008fb60b27d?source=rss-ecf5a3513277------2)
 - [Testes de integração em .NET com Testcontainers e XUnit](https://leonardoguilen.medium.com/testes-de-integra%C3%A7%C3%A3o-em-net-com-testcontainers-e-xunit-4772663a6839?source=rss-ecf5a3513277------2)
 - [3 estratégias para melhorar a segurança das suas API’s](https://leonardoguilen.medium.com/3-estrat%C3%A9gias-para-melhorar-a-seguran%C3%A7a-das-suas-apis-151d7f381494?source=rss-ecf5a3513277------2)
 - [Trabalhando com múltiplas culturas em aplicações .NET](https://leonardoguilen.medium.com/trabalhando-com-m%C3%BAltiplas-culturas-em-aplica%C3%A7%C3%B5es-net-fb540ad96277?source=rss-ecf5a3513277------2)
 - [Trafegando dados sensíveis entre aplicações .NET com DataProtection API](https://leonardoguilen.medium.com/trafegando-dados-sens%C3%ADveis-entre-aplica%C3%A7%C3%B5es-net-com-dataprotection-api-93e698d56a7f?source=rss-ecf5a3513277------2)
-- [Melhores práticas para teste de unidade](https://leonardoguilen.medium.com/melhores-pr%C3%A1ticas-para-teste-de-unidade-80bcbd3cb21e?source=rss-ecf5a3513277------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔗 Connect with me
