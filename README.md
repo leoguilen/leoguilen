@@ -4,6 +4,14 @@
 
 I'm a Software Developer Engineer who is passionate about technology and innovation. I love coding, it's therapy for me. Also, I love sharing my knowledge and researches insights with others, and I do that through content creation on my Blog and GitHub repositories. My main focus is on backend development, but I also have experience with frontend development and cloud services. I like to work in a technology-agnostic way, always looking for the best solution for the problem, and I'm always looking for new challenges and learning new skills. I'm open to new opportunities and challenges, so feel free to contact me.
 
+### 🚀 I'm currently
+
+- Writing articles on my [Medium](https://leonardoguilen.medium.com) blog (when I have time 😅)
+- Learning about cloud services and security ☁
+- Studying Rust 🦀
+- Improving my English skills 🇺🇸
+
+
 ### 🪪 My Badges
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/1986e4ff-e366-4ef8-94cc-f8145bef2cd1 "AWS Certified Cloud Practitioner")
