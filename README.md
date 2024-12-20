@@ -8,7 +8,7 @@ I'm a Software Developer Engineer who is passionate about technology and innovat
 
 - Writing articles on my [Medium](https://leonardoguilen.medium.com) blog (when I have time 😅)
 - Learning about cloud services and security ☁
-- Studying Rust 🦀
+- Studying Clojure and functional programming
 - Improving my English skills 🇺🇸
 
 
